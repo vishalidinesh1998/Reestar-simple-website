@@ -27,7 +27,9 @@ This is a **Hotel Menu Order Website** built using **only HTML & CSS**. The webs
 2. Open the project folder.  
 3. Run `index.html` in your browser.  
 
-## 📌 Future Enhancements  
-- Adding hover effects and transitions for better UI  
-- Enhancing the layout with more styling improvements  
-- Improving mobile responsiveness  
+🎯 Future Enhancements
+Adding JavaScript for interactive elements
+
+Improving responsiveness with media queries
+
+Animations and hover effects for a better UI 
