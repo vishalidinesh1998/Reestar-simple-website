@@ -1,0 +1,56 @@
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+li{
+    display: Inline;
+    color: gray;
+    padding: 0px;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+.menu{
+    text-align: center;
+    margin: 200px;
+    display:inline;
+}
+.menu__first,.menu__second,.menu__third,.menu__four{
+    display: inline;
+}
+.footer{
+    text-align: center;
+    background-color:black;
+    color:white;
+
+}
+.footer-table{
+    text-align: center;
+    position: relative;
+    left :500px;
+}
+.footer-table__button{
+    background-color: yellow;
+    color: black;
+    position: relative;
+    left :20px;
+    width: 500px;
+}
+.menu__first,.menu__second,.menu__third,.menu__four{
+    display: inline-block;
+    width: 200px;
+    height: 350px;
+    border: solid black 1px;
+    text-align: center;
+}
+.menu__button{
+    background-color: black;
+    color: white;
+}
+.menu__button:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
